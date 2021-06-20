@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">- Istanbul Aydın University at Software Engineer Student. - I'm on my way to becoming a full stack developer.</h3>
+<h3 align="center">- Istanbul Aydın University at Software Engineer Student. 
+<h3 align="center">- I'm on my way to becoming a full stack developer.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
